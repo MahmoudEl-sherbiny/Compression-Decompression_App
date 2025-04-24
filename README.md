@@ -120,8 +120,4 @@ This project provides a graphical user interface (GUI) tool for compressing and 
    - Choose the appropriate decompression algorithm (e.g., Huffman).
    - View the decompressed content.
 
----
 
-## License
-
-This project is open source and available under the MIT License.
